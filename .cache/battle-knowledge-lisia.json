@@ -436,10 +436,7 @@
       "hpConflictSource": "catalog-vs-observed"
     },
     "PB-116": {},
-    "STB-003": {
-      "summonCost": 1,
-      "summonCostSource": "trainer-log"
-    },
+    "STB-003": {},
     "HLC-A01": {
       "catalogHp": 80,
       "catalogHpSource": "catalog",
@@ -494,18 +491,9 @@
       "maxHpSource": "server-attack-snapshot",
       "legacyHpAmbiguous": false
     },
-    "PB-104": {
-      "summonCost": 1,
-      "summonCostSource": "trainer-log"
-    },
-    "PB-132": {
-      "summonCost": 1,
-      "summonCostSource": "trainer-log"
-    },
-    "BS-055": {
-      "summonCost": 1,
-      "summonCostSource": "trainer-log"
-    },
+    "PB-104": {},
+    "PB-132": {},
+    "BS-055": {},
     "AMC-011": {
       "skillEffect": "After attacking: you may move this card to an adjacent empty Field.",
       "skillEffectSource": "catalog",
@@ -586,10 +574,7 @@
       },
       "hpConflictSource": "catalog-vs-observed"
     },
-    "PB-133": {
-      "summonCost": 1,
-      "summonCostSource": "trainer-log"
-    },
+    "PB-133": {},
     "SLC-009": {
       "catalogHp": 150,
       "catalogHpSource": "catalog",
@@ -625,18 +610,9 @@
       },
       "hpConflictSource": "catalog-vs-observed"
     },
-    "PB-102": {
-      "summonCost": 1,
-      "summonCostSource": "trainer-log"
-    },
-    "BS-085": {
-      "summonCost": 1,
-      "summonCostSource": "trainer-log"
-    },
-    "BS-061": {
-      "summonCost": 2,
-      "summonCostSource": "trainer-log"
-    },
+    "PB-102": {},
+    "BS-085": {},
+    "BS-061": {},
     "SLC-006": {
       "ruleText": "On play: the opposing character with the highest HP gets HP-20 this turn.",
       "ruleTextSource": "catalog",
@@ -650,10 +626,7 @@
       "canAttackImmediately": true,
       "canAttackSource": "observed-rush"
     },
-    "STB-008": {
-      "summonCost": 1,
-      "summonCostSource": "trainer-log"
-    },
+    "STB-008": {},
     "HLC-002": {
       "ruleText": "On play: another friendly character gets skill damage +20 on its next attack this turn.",
       "ruleTextSource": "catalog",
@@ -686,10 +659,7 @@
       },
       "hpConflictSource": "catalog-vs-observed"
     },
-    "PB-110": {
-      "summonCost": 1,
-      "summonCostSource": "trainer-log"
-    },
+    "PB-110": {},
     "HLC-001": {
       "ruleText": "On play: another friendly character gets HP+20 until the next attack it receives.",
       "ruleTextSource": "catalog",
@@ -6127,9 +6097,9 @@
     }
   ],
   "stats": {
-    "observations": 4734,
-    "matches": 80,
-    "actions": 1690,
+    "observations": 4736,
+    "matches": 81,
+    "actions": 1692,
     "finishingAttacks": 61,
     "fieldAttacksFailed": 145,
     "failedAttackDamage": {
